@@ -1,163 +1,136 @@
-<p align="center">
-<img src="https://github.com/Volmarg/personal-management-system/blob/main/public/logo-small.png?raw=true" width="100px"/>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Volmarg/personal-management-system/blob/main/public/logo-small.png?raw=true"><img src="https://github.com/Volmarg/personal-management-system/raw/main/public/logo-small.png?raw=true" width="100px" style="max-width: 100%;"></a>
 </p>
-
-<h1 align="center"> Personal Management System</h1>
-<p align="center"><i>Your central point for managing personal data <br> (if current modules allow to do that).</i></p>
-
-<h3>Documentation / Demo</h3>
+<h1 align="center" tabindex="-1" dir="auto"><a id="user-content--personal-management-system" class="anchor" aria-hidden="true" tabindex="-1" href="#-personal-management-system"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">个人管理系统</font></font></h1>
+<p align="center" dir="auto"><i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您管理个人数据的中心点</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（如果当前模块允许这样做）。</font></font></i></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-documentation--demo" class="anchor" aria-hidden="true" tabindex="-1" href="#documentation--demo"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档/演示</font></font></h3>
 <hr>
-
-<ul>
-<li><b>Documentation</b> - available <a href="https://volmarg.github.io"><b>here</b></a></li>
-<li><b>Demo</b> - click <a href="http://personal-management-system.pl/"><b>here </b></a>
-<ul>
-<li><b>Login:</b> admin</li>
-<li><b>Password/LockPassword:</b> admin</li>
+<ul dir="auto">
+<li><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font><a href="https://volmarg.github.io" rel="nofollow"><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">此处提供</font></font></b></a></li>
+<li><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">演示</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 单击</font></font><a href="http://personal-management-system.pl/" rel="nofollow"><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">此处</font></font></b></a>
+<ul dir="auto">
+<li><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">登录：</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">管理员</font></font></li>
+<li><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">密码/锁定密码：</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> admin</font></font></li>
 </ul>
 </li>
 </ul>
-
-<h3>Description</h3>
+<h3 tabindex="-1" dir="auto"><a id="user-content-description" class="anchor" aria-hidden="true" tabindex="-1" href="#description"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">描述</font></font></h3>
 <hr>
-<p align="justify">
-	It's easier to understand this web application when you think about a CMS (WordPress) or CRM (SugarCRM); the logic behind this system is very similar to those two. My PMS may offer fewer possibilities than those systems above, but it just does what I want it to do. Additionally, writing extensions is not too hard, depending on the logic required. Anyone with development knowledge can pretty much write their own extensions for personal needs.
-</p>
-
-<h3>Reasoning/Purpose</h3>
+<p align="justify" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+	当您考虑 CMS (WordPress) 或 CRM (SugarCRM) 时，会更容易理解此 Web 应用程序；</font><font style="vertical-align: inherit;">这个系统背后的逻辑与这两个系统非常相似。</font><font style="vertical-align: inherit;">我的 PMS 提供的可能性可能比上面的那些系统少，但它只是做我想做的事。</font><font style="vertical-align: inherit;">此外，编写扩展并不太难，具体取决于所需的逻辑。</font><font style="vertical-align: inherit;">任何具有开发知识的人几乎都可以根据个人需求编写自己的扩展。
+</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-reasoningpurpose" class="anchor" aria-hidden="true" tabindex="-1" href="#reasoningpurpose"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">推理/目的</font></font></h3>
 <hr>
-
-<p align="justify">
-    I decided to create my own system, because playing around with tons of plugins for WordPress and writing customizations to some existing CRMs would take me as much time as writing my own system and by knowing the logic from its core it's easier for me to write extensions and add additional modules - whatever I need.
-</p>
-
-<p align="justify">
-    Secondly, there is no system like that, and I didn't wanted to end up integrating a docker based cloud with CMS. Furthermore I just need an application like that to keep organized and I'm tired of having some very personal data on OneDrive, other data on Google cloud, some notes here, and some notes there. The end goal is to have an application running on terminal or raspberry 24/7 plugged into my home network, without access to internet.
-</p>
-
-<h3>Preview</h3>
+<p align="justify" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+    我决定创建自己的系统，因为使用大量的 WordPress 插件以及为某些现有的 CRM 编写自定义内容会花费我与编写自己的系统一样多的时间，并且通过了解其核心逻辑，我可以更轻松地编写扩展并添加额外的模块 - 无论我需要什么。
+</font></font></p>
+<p align="justify" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+    其次，没有这样的系统，我不想最终将基于 docker 的云与 CMS 集成。</font><font style="vertical-align: inherit;">此外，我只需要一个这样的应用程序来保持井井有条，我厌倦了在 OneDrive 上保存一些非常个人的数据，在 Google 云上保存其他数据，这里有一些注释，那里有一些注释。</font><font style="vertical-align: inherit;">最终目标是让应用程序在终端或树莓派上运行，24/7插入我的家庭网络，而无需访问互联网。
+</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-preview" class="anchor" aria-hidden="true" tabindex="-1" href="#preview"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">预览</font></font></h3>
 <hr>	
-
-<img src="https://volmarg.github.io/img/project-example-dashboard.jpg">
-
-<img src="https://volmarg.github.io/img/project-example-charts.jpg">
-
-<img src="https://volmarg.github.io/img/project-example-contacts.jpg">
-
-<h3>Available options and modules</h3>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a913f6fbe6cb73928f356f685acec6983896ce3ac0d6ab999f8f88f31f2040c0/68747470733a2f2f766f6c6d6172672e6769746875622e696f2f696d672f70726f6a6563742d6578616d706c652d64617368626f6172642e6a7067"><img src="https://camo.githubusercontent.com/a913f6fbe6cb73928f356f685acec6983896ce3ac0d6ab999f8f88f31f2040c0/68747470733a2f2f766f6c6d6172672e6769746875622e696f2f696d672f70726f6a6563742d6578616d706c652d64617368626f6172642e6a7067" data-canonical-src="https://volmarg.github.io/img/project-example-dashboard.jpg" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ee8b29295018811a60ac0f8bee38085b9e97136798dd71af75e024836a1abd7a/68747470733a2f2f766f6c6d6172672e6769746875622e696f2f696d672f70726f6a6563742d6578616d706c652d6368617274732e6a7067"><img src="https://camo.githubusercontent.com/ee8b29295018811a60ac0f8bee38085b9e97136798dd71af75e024836a1abd7a/68747470733a2f2f766f6c6d6172672e6769746875622e696f2f696d672f70726f6a6563742d6578616d706c652d6368617274732e6a7067" data-canonical-src="https://volmarg.github.io/img/project-example-charts.jpg" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4dc7c53db577dc88b447a94f96f106d2d2a38a57d0b403301b77b981183f294c/68747470733a2f2f766f6c6d6172672e6769746875622e696f2f696d672f70726f6a6563742d6578616d706c652d636f6e74616374732e6a7067"><img src="https://camo.githubusercontent.com/4dc7c53db577dc88b447a94f96f106d2d2a38a57d0b403301b77b981183f294c/68747470733a2f2f766f6c6d6172672e6769746875622e696f2f696d672f70726f6a6563742d6578616d706c652d636f6e74616374732e6a7067" data-canonical-src="https://volmarg.github.io/img/project-example-contacts.jpg" style="max-width: 100%;"></a></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-available-options-and-modules" class="anchor" aria-hidden="true" tabindex="-1" href="#available-options-and-modules"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可用选项和模块</font></font></h3>
 <hr>
-
-<ol>
-    <li><b style="display:inline">🎯 Todo/Goals</b> - <span align="justify"><i>Keep a track of your personal goals. You can use todolist to keep track of your goals progress or use payments submodule to keep an eye of the money amount that you want to collect for something.</i>
-        </span></li><br/>
-        <li><b>📖 Notes</b> <span align="justify"> - <i>Add any personal note to desired category. Here, you can keep any small information that you need; it can be either quick notes from phone call, bunch of information collected all around different pages or some links to things that you want to check somewhere later in future.</i></span></li><br/>
-        <li><b>📞 Contacts</b> - <span align="justify">You ever feel like You got dozens of phone contacts, emails etc. that you would like to get rid of, or make some safety backup in case you loose your phone? With this simple module you can organize your personal contacts.
-            </span></li><br/>
-        <li><b>🔑 Passwords</b> - <span align="justify"> <i>We all get to certain point when there are just way too many passwords to handle all around. Yeah we can keep them on email, pendrive, have special patterns in our heads, but lets face it sometimes it's just too many. With the Passwords module You can keep Your passwords encrypted in Your database, while on the frontend there is a copy button that will fetch You back the original password.
-        </i></span></li><br/>
-        <li><b>🏆 Achievements</b> - <span><i>Want to keep a track on anything cool you did - put in this module!</i></span></li><br/>
-        <li><b>📅 Schedules</b> - <span align="justify"><i>This module purpose is to keep track of any recurring things you got to do like for example car oil changes, payments, visits etc. Data added to the groups of schedules will be displayed on Dashboard and in the notification bell.</i></span></li><br/>
-        <li><b>🔁 Issues</b> - <span align="justify"><i>In this section You can track any ongiong/pending cases that have to be eventually resolved but it's not necessary required to keep constantly an eye on it - yet it might be required to go back one day in future to it so it allows to add subrecords of performed contacts and progress in given case</i></span></li><br/>	
-        <li><b>🌴 Travels</b> - <span align="justify"> <i>Having some ideas of places to visit but without any specific plans to it? Add it to this Module with google map link and some image so you can come back to it at any moment. May the image remind you why you were interested in this particular place.</i></span></li><br/>
-        <li><b>💸 Payments</b> - <span align="justify"> <i> Don't know how much money You spend on food, travels, domestic shopping? Simply from now on  add every shopping details to the list and let it do all the calculations, alongside with summary for given month. </i></span>
-        <p align="justify"><i>On the other hand if you would like to keep an eye of prices for particular products you can add information about them in Products Prices submodule (which I'm personally using while being in other country - on the moment when I'm writing this).</i></p>
-	<p align="justify"><i>Here You can also keep track of who owes You some money or who You owe something to by using <b>owed money</b> submodule.</i></p>	<p align="justify"><i><b>Bills</b> submodule allows saving information about money spent on certain things (separately from monthly payments for things like money spent on holiday etc.)</i></p></li><br/>
-	<li><b>🛒 Shopping</b> - <span align="justify"><i>You got plans to buy something in future? Add it to the list, and then just check it out,  maybe You will be able to buy this particular thing just now.</i></span></li><br/>
-    <li><b>💻 Job</b> - <span align="justify"><i>The Afterhours submodule is a nice way to keep an eye of all the afterhours you've made in work. With this you can also separate specified minutes/hours for certain goal. For example you need 24h for trip and 4h to do something. Just add some time to pre existing goal, create new one or leave it blank (will go to general purpose pool). Holidays submodule is a simple way to track down how many days did You used from yearly holidays pool.</i></span> </li><br/>
-    <li><b>📷 Images</b> - <span align="justify"><i>This module allows You to organize Your photos/scans/downloaded pics in form of masonry galleries. Clicking on image miniature will call lightbox gallery with possibility to rename, remove or download image. You can create as many galleries (folders) as You want.</i></span> </li><br/>	
-    <li><b>📁 Files</b> - <span align="justify"><i>Files uploaded for this module are visible in form of DataTable where You can see simple information about the file - that is: extension, filetype icon (if there is one defined for given type), file size. Files can be renamed, downloaded and removed from the gui.</i></span> </li><br/>		
-    <li><b>🎬 Video</b> - <span align="justify"><i>Got small video downloaded from internet or recorded on phone? That's a module to store it then - supports most popular web video formats.</i></span> </li><br/>		
-    <li><b>📑 Reports</b> - <span align="justify"><i>contains readonly reports created from already existing data in database</i></span> </li><br/>		
+<ol dir="auto">
+    <li><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🎯 待办事项/目标</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font><span align="justify"><i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">跟踪您的个人目标。</font><font style="vertical-align: inherit;">您可以使用 todolist 来跟踪您的目标进度，或使用付款子模块来关注您想要收取的金额。</font></font></i>
+        </span></li><br>
+        <li><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📖 注释</font></font></b> <span align="justify"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font><i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将任何个人注释添加到所需的类别。</font><font style="vertical-align: inherit;">在这里，您可以保留您需要的任何小信息；</font><font style="vertical-align: inherit;">它可以是电话中的快速笔记，可以是在不同页面收集的一堆信息，也可以是一些指向您以后想要在某个地方检查的内容的链接。</font></font></i></span></li><br>
+        <li><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📞 通讯录</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font><span align="justify"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您是否曾经感觉自己有几十个电话联系人、电子邮件等，想要删除，或者做一些安全备份以防丢失手机？</font><font style="vertical-align: inherit;">通过这个简单的模块，您可以组织您的个人联系人。
+            </font></font></span></li><br>
+        <li><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔑 密码</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font><span align="justify"><i><font style="vertical-align: inherit;">我们都会遇到这样的情况：密码太多而无法处理。</font></i></span><span align="justify"><i><font style="vertical-align: inherit;">是的，我们可以将它们保存在电子邮件、随身碟上，在我们的头脑中保留特殊的模式，但让我们面对现实吧，有时它太多了。</font></i></span><span align="justify"><i><font style="vertical-align: inherit;">使用密码模块，您可以在数据库中对密码进行加密，而前端有一个复制按钮，可以取回原始密码。
+        </font></i></span></font><span align="justify"> <i><font style="vertical-align: inherit;"></font></i></span></li><br>
+        <li><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🏆 成就</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font><span><i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">想要跟踪你所做的任何酷事 - 放入此模块！</font></font></i></span></li><br>
+        <li><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📅 时间表</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font><span align="justify"><i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该模块的目的是跟踪您必须做的任何重复的事情，例如汽车机油更换、付款、访问等。添加到时间表组的数据将显示在仪表板和通知铃中。</font></font></i></span></li><br>
+        <li><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔁 问题</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font><span align="justify"><i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在此部分中，您可以跟踪任何必须最终解决的长期/待决案例，但没有必要持续关注它 - 但可能需要在未来某一天返回它，以便它允许添加已执行联系的子记录和给定案例的进度</font></font></i></span></li><br>	
+        <li><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌴 旅行</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font><span align="justify"><i><font style="vertical-align: inherit;">有一些想去的地方但没有具体的计划？</font></i></span><span align="justify"><i><font style="vertical-align: inherit;">使用谷歌地图链接和一些图像将其添加到此模块，以便您可以随时返回。</font></i></span><span align="justify"><i><font style="vertical-align: inherit;">愿这张图片提醒您为什么对这个特定的地方感兴趣。</font></i></span></font><span align="justify"> <i><font style="vertical-align: inherit;"></font></i></span></li><br>
+        <li><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💸 付款</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font><span align="justify"><i><font style="vertical-align: inherit;">不知道您在食物、旅行、国内购物上花了多少钱？</font></i></span><span align="justify"><i><font style="vertical-align: inherit;">从现在开始，只需将每个购物详细信息添加到列表中，并让它完成所有计算，以及给定月份的摘要。</font></i></span></font><span align="justify"> <i><font style="vertical-align: inherit;"></font></i></span>
+        <p align="justify" dir="auto"><i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">另一方面，如果您想关注特定产品的价格，您可以在“产品价格”子模块中添加有关它们的信息（我个人在其他国家/地区时使用该子模块 - 在我撰写本文时） 。</font></font></i></p>
+	<p align="justify" dir="auto"><i><font style="vertical-align: inherit;"></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在这里，您还可以通过使用欠款</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">子模块来跟踪谁欠您一些钱或您欠谁一些东西</font><font style="vertical-align: inherit;">。</font></font></i></p>	<p align="justify" dir="auto"><i><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">账单子</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">模块允许保存有关在某些事情上花费的金钱的信息（与假期花费等事情的每月付款分开）</font></font></i></p></li><br>
+	<li><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🛒 购物</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font><span align="justify"><i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您将来有计划买东西吗？</font><font style="vertical-align: inherit;">将其添加到列表中，然后查看一下，也许您现在就可以购买这个特定的东西。</font></font></i></span></li><br>
+    <li><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💻 工作</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font><span align="justify"><i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下班后子模块是关注您在工作中完成的所有下班后工作的好方法。</font><font style="vertical-align: inherit;">通过此功能，您还可以为特定目标分隔指定的分钟/小时。</font><font style="vertical-align: inherit;">例如，你需要 24 小时旅行，4 小时做某事。</font><font style="vertical-align: inherit;">只需在现有目标上添加一些时间，创建新目标或将其留空（将进入通用目标池）。</font><font style="vertical-align: inherit;">假期子模块是一种简单的方法，可以跟踪您从每年的假期池中使用了多少天。</font></font></i></span> </li><br>
+    <li><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📷 图片</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font><span align="justify"><i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">此模块允许您以砖石画廊的形式组织您的照片/扫描/下载的图片。</font><font style="vertical-align: inherit;">单击图像微型图将调用灯箱画廊，可以重命名、删除或下载图像。</font><font style="vertical-align: inherit;">您可以根据需要创建任意数量的画廊（文件夹）。</font></font></i></span> </li><br>	
+    <li><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📁 文件</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font><span align="justify"><i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为此模块上传的文件以数据表的形式可见，您可以在其中看到有关文件的简单信息 - 即：扩展名、文件类型图标（如果为给定类型定义了图标）、文件大小。</font><font style="vertical-align: inherit;">文件可以在 GUI 中重命名、下载和删除。</font></font></i></span> </li><br>		
+    <li><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🎬 视频</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font><span align="justify"><i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有从互联网下载或在手机上录制的小视频吗？</font><font style="vertical-align: inherit;">这是一个存储它的模块 - 支持最流行的网络视频格式。</font></font></i></span> </li><br>		
+    <li><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📑 报告</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font><span align="justify"><i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">包含根据数据库中现有数据创建的只读报告</font></font></i></span> </li><br>		
 </ol>
-
-<h2>How to install/documentation</h2>
-
-<h3> Linux installer </h3>
-
-<p>
-<b> In both cases it's explicitly required to install composer dependencies at first! </b>
+<h2 tabindex="-1" dir="auto"><a id="user-content-how-to-installdocumentation" class="anchor" aria-hidden="true" tabindex="-1" href="#how-to-installdocumentation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如何安装/文档</font></font></h2>
+<h3 tabindex="-1" dir="auto"><a id="user-content--linux-installer-" class="anchor" aria-hidden="true" tabindex="-1" href="#-linux-installer-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Linux安装程序</font></font></h3>
+<p dir="auto">
+<b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在这两种情况下，都明确要求首先安装 Composer 依赖项！</font></font></b>
 </p>
-
-<ul>
-    <li><b>For standard installation call:</b> <pre>composer pms-installer</pre></li>
-    <li><b>For installation from within docker usage call:</b> <pre>composer pms-installer-docker</pre></li>
+<ul dir="auto">
+    <li><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对于标准安装，请致电：</font></font></b> <pre><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">作曲家 pms 安装程序</font></font></pre></li>
+    <li><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对于从 docker 使用调用中进行安装：</font></font></b> <pre><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">作曲家 pms-安装程序-docker</font></font></pre></li>
 </ul>
-
-<h2>Future development plans</h2>
-
-<h3>Improvements</h3>
-<p>
-	<i>Overally I will just add some bug fixes/improvements/modules from time to time - anything that I will just need.</i>
+<h2 tabindex="-1" dir="auto"><a id="user-content-future-development-plans" class="anchor" aria-hidden="true" tabindex="-1" href="#future-development-plans"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">未来发展计划</font></font></h2>
+<h3 tabindex="-1" dir="auto"><a id="user-content-improvements" class="anchor" aria-hidden="true" tabindex="-1" href="#improvements"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">改进</font></font></h3>
+<p dir="auto">
+	<i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">总的来说，我只会时不时地添加一些错误修复/改进/模块——任何我需要的东西。</font></font></i>
 </p>	
 <hr>
-
-<h2>Support</h2>
-
-<p align="justify">
-    I cannot guarantee support. I've got a job, personal things etc, I'm just sharing my code/my application as MIT. However feel totally free to ask about something, write issues etc. As mentioned I'm using and I will use this application from now on daily so there might be some changes even good for me.
-</p>
-
-<p align="justify">
-    As I'm working on it there will be some fixes, and new modules in future when I reach the point when I got all I need. So after reaching my goal I could handle some support requests if anyone will be interested.
-</p>
-
-<h3>Browsers Support</h3>
-<ul>
-	<li>Chrome</li>
+<h2 tabindex="-1" dir="auto"><a id="user-content-support" class="anchor" aria-hidden="true" tabindex="-1" href="#support"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持</font></font></h2>
+<p align="justify" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+    我不能保证支持。</font><font style="vertical-align: inherit;">我有一份工作，一些个人事务等等，我只是以麻省理工学院的身份分享我的代码/我的应用程序。</font><font style="vertical-align: inherit;">不过，您可以完全自由地提出问题、写问题等。正如前面提到的，我正在使用并且从现在开始每天都会使用这个应用程序，因此可能会有一些变化，甚至对我来说也有好处。
+</font></font></p>
+<p align="justify" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+    当我正在研究它时，当我达到我需要的一切时，将来将会有一些修复和新模块。</font><font style="vertical-align: inherit;">因此，在实现我的目标后，如果有人感兴趣，我可以处理一些支持请求。
+</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-browsers-support" class="anchor" aria-hidden="true" tabindex="-1" href="#browsers-support"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">浏览器支持</font></font></h3>
+<ul dir="auto">
+	<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">铬合金</font></font></li>
 </ul>
-
-<p>
-	I mean for real. Just <b>Chrome</b>. I know about bug with copying password in Firefox for example. But I just do everything in Chrome so I'm not really planning to check that on other browsers. And before You ask why I only support chrome - I don't do it because of "chrome is the best" or anything like that, I just use that browser for 98% of time and that's just it.
-</p>
-
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+	我的意思是真的。</font><font style="vertical-align: inherit;">只是</font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">铬</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">例如，我知道 Firefox 中复制密码的错误。</font><font style="vertical-align: inherit;">但我只是在 Chrome 中完成所有操作，因此我并不打算在其他浏览器上进行检查。</font><font style="vertical-align: inherit;">在你问为什么我只支持 chrome 之前 - 我这样做并不是因为“chrome 是最好的”或类似的东西，我 98% 的时间都使用该浏览器，仅此而已。
+</font></font></p>
 <hr>
-
-<h2>Tech</h2>
-<p style="text-align:justify;">
-    Personal Management System is a web application which can be ran either in Windows and Linux enviroment. Everything is by default tested on Ubuntu 20.x.
-</p>
-
-<h3>Used languages/frameworks/solutions</h3>
-
-<ul>
-<li>Php 7.4.x</li>
-<li>JS</li>
-<li>JQ</li>
-<li>TypeScript (as from v1.3)</li>
-<li>Symfony 5.x</li>
-<li>MySQL</li>
-<li>Css</li>
-<li>Scss</li>
-<li>Node 10.22.1</li>
-<li>Bootstrap</li>
-<li>Webpack</li>
-<li><small>And maybe some others which I just don't remember</small></li>
+<h2 tabindex="-1" dir="auto"><a id="user-content-tech" class="anchor" aria-hidden="true" tabindex="-1" href="#tech"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">科技</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+    个人管理系统是一个Web应用程序，可以在Windows和Linux环境中运行。</font><font style="vertical-align: inherit;">默认情况下，一切都在 Ubuntu 20.x 上进行了测试。
+</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-used-languagesframeworkssolutions" class="anchor" aria-hidden="true" tabindex="-1" href="#used-languagesframeworkssolutions"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用的语言/框架/解决方案</font></font></h3>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PHP 7.4.x</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JS</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">金泉</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TypeScript（从 v1.3 开始）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">交响乐 5.x</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MySQL</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSS</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">斯卡斯</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">节点10.22.1</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">引导程序</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网页包</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">也许还有其他一些我不记得了</font></font></li>
 </ul>
-
-<h3>Used packages</h3>
-<ul>
-<li><a href="https://github.com/krzysiekpiasecki/Symfonator">Symfonator</a> <small>(Ui)</small></li>
-<li><a href="https://github.com/mogilvie/EncryptBundle">EncryptBundle</a> <small>(Core for passwords module)</small></li>
-<li><a href="https://github.com/furcan/IconPicker">Icon Picker</a> <small>(Icon picker for Notes module)</small></li>
-<li><a href="https://github.com/makeusabrew/bootbox">Bootbox</a> (<small>Additional safety confirmations for CRUD</small>)
+<h3 tabindex="-1" dir="auto"><a id="user-content-used-packages" class="anchor" aria-hidden="true" tabindex="-1" href="#used-packages"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">二手包</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/krzysiekpiasecki/Symfonator"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">交响乐</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">(Ui)</font></font></li>
+<li><a href="https://github.com/mogilvie/EncryptBundle"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EncryptBundle</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（密码模块的核心）</font></font></li>
+<li><a href="https://github.com/furcan/IconPicker"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">图标选择器</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（笔记模块的图标选择器）</font></font></li>
+<li><a href="https://github.com/makeusabrew/bootbox"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bootbox</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（CRUD 的附加安全确认）
+</font></font></li>
+<li><a href="https://github.com/mbezhanov/faker-provider-collection"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Faker Provider Collection</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://github.com/fzaninotto/faker"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Faker</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">扩展）</font></font></li>
+<li><a href="https://github.com/EastDesire/jscolor"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JsColor</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（注释模块的颜色选择器）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">... bootstrap、TinyMce、DataTables 等</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">...我什至不知道其中一些是在 Symfonator 中预构建的</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-special-thanks-to" class="anchor" aria-hidden="true" tabindex="-1" href="#special-thanks-to"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特别感谢</font></font></h2>
+<ul dir="auto">
+	<li><a href="https://github.com/mogilvie"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mark Ogilvie</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 修复 Symfony 4 的 EncryptBundle 错误</font></font></li>
+	<li><a href="https://github.com/furcan"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Furcan</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 添加我对图标选择器的内容可编辑支持的想法</font></font></li>
+	<li><a href="https://github.com/petervanderwalt"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Petervanderwalt</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 为</font><a href="https://github.com/furcan/IconPicker"><font style="vertical-align: inherit;">IconPicker添加 fontawesome </font></a></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">js</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">版本支持</font></font><a href="https://github.com/furcan/IconPicker"><font style="vertical-align: inherit;"></font></a></li>	
+	<li><a href="https://github.com/SimonHaas"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SimonHaas</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于提供</font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">docker</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">配置</font></font></li>	
+	<li><a href="https://github.com/MohamedElashri"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MohamedElashri</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于测试</font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">docker</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">配置</font></font></li>	
+	<li><a href="https://github.com/rwaight"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rob Waight</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 提供</font><font style="vertical-align: inherit;">在 Windows 上运行</font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">docker的更改和文档</font></font></b><font style="vertical-align: inherit;"></font></li>	
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-contact" class="anchor" aria-hidden="true" tabindex="-1" href="#contact"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">接触</font></font></h3>
+<hr>
+<ul dir="auto">
+<li>
+<p align="left" dir="auto"><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">邮件</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-personal.management.system.pms@gmail.com </font></font><a href="mailto:personal.management.system.pms@gmail.com"><i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">_</font></font></i></a></p>
 </li>
-<li><a href="https://github.com/mbezhanov/faker-provider-collection">Faker Provider Collection</a> <small>(<a href="https://github.com/fzaninotto/faker">Faker</a> extension)</small></li>
-<li><a href="https://github.com/EastDesire/jscolor">JsColor</a> (<small>Color pickers for Notes module</small>)</li>
-<li>... bootstrap, TinyMce, DataTables and many others</li>
-<li>... I don't even know some of them which come prebuild in Symfonator</li>
 </ul>
-
-<h2>Special thanks to</h2>
-<ul>
-	<li><a href="https://github.com/mogilvie">Mark Ogilvie</a> - for fixing EncryptBundle bugs for Symfony 4</li>
-	<li><a href="https://github.com/furcan">Furcan</a> - for adding my idea of contenteditable support for Icon Picker</li>
-	<li><a href="https://github.com/petervanderwalt">Petervanderwalt</a> - for adding fontawesome <b>js</b> version support for <a href="https://github.com/furcan/IconPicker">IconPicker</a></li>	
-	<li><a href="https://github.com/SimonHaas">SimonHaas</a> - for providing <b>docker</b> configuration</li>	
-	<li><a href="https://github.com/MohamedElashri">MohamedElashri</a> - for testing <b>docker</b> configuration</li>	
-	<li><a href="https://github.com/rwaight">Rob Waight</a> - for providing changes and documentation for running <b>docker</b> on windows</li>	
-</ul>
-
-<h3>Contact</h3>
-<hr>
-
-- <p align="left"><b>Mail</b> - <a href="mailto:personal.management.system.pms@gmail.com"><i>personal.management.system.pms@gmail.com</i></a></p>
+</article></div>
